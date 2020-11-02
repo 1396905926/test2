@@ -4,8 +4,8 @@
             "splits":[
 
             ],
-            "versionCode":12,
-            "versionName":"1.1.2",
+            "versionCode":13,
+            "versionName":"1.1.3",
             "enabled":true,
             "outputFile":"app-debug.apk",
             "fullName":"debug",
