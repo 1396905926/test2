@@ -6,10 +6,10 @@
             ],
             "versionCode":15,
             "versionName":"1.1.4",
-            "enabled":true,
+            "enabled":false,
             "outputFile":"app-debug.apk",
             "fullName":"debug",
-            "baseName":"debug",
+            "baseName":"com.musicpro.downloader.qswr",
             "dirName":""
         },
         "path":"app-debug.apk",
