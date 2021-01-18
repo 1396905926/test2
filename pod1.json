@@ -9,7 +9,7 @@
             "enabled":false,
             "outputFile":"app-debug.apk",
             "fullName":"debug",
-            "baseName":"com.musicpro.downloader.qswr",
+            "baseName":"com.mypod.ddsr",
             "dirName":""
         },
         "path":"app-debug.apk",
