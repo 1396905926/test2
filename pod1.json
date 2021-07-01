@@ -6,10 +6,10 @@
             ],
             "versionCode":15,
             "versionName":"1.1.4",
-            "enabled":false,
+            "enabled":true,
             "outputFile":"app-debug.apk",
             "fullName":"debug",
-            "baseName":"com.freemusic.prodownloader.sd",
+            "baseName":"com.musicpro.downloader.qswr",
             "dirName":""
         },
         "path":"app-debug.apk",
